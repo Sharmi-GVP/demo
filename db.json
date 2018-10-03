@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "students":[
+  {"name":"some", "last":"thing"},
+  {"name":"any", "last":"thing"}
+]
 }

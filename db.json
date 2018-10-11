@@ -11,4 +11,8 @@
   "profile": {
     "name": "typicode"
   }
+  "sample": {
+  "person":"employee",
+  "department": "ibgt"
+}
 }
